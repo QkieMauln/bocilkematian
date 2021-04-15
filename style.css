@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:  linear-gradient(to top, rgba(33, 26, 31, 0.877), rgba(197, 63, 255, 0.849)) fixed, url(https://cdn.discordapp.com/attachments/782957420473352262/832186865624809472/unknown.png) fixed;
+}
+h1 {
+    text-align: center;
+}
+.credit{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    font-size: 1.3em;
+    font-weight: bold;
+    border-top-right-radius: 10px;
+    background: #f94c4c;
+    color: #ffffff;
+}
+.main{
+    padding: 10px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.isi-goblog, .qontol{
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 5px;
+    padding: 15px 10px;
+    box-shadow: 2px 2px 10px rgba(33, 26, 31, 0.75);
+    max-width: 500px;
+    margin: 12px auto;
+}
+.gak-boleh-kasar{
+    margin-bottom: 10px;
+}
+label h4{
+    font-size: 1.1em;
+    margin: 0;
+    padding: 0
+}
+label p {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 4px;
+    color: #3e3e3e;
+}
+input{
+    padding: 5px 7px;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #777;
+    outline: none;
+    color: #130a20;
+    transition: 0.3s;
+}
+input:focus{
+    box-shadow: 0 0 24px 2px #f94c4c;
+    border-radius: 5px;
+}
+#pedju{
+    padding: 20px;
+    background: rgba(33, 26, 31, 0.75);
+    border-radius: 5px;
+    user-select: all;
+    font-size: 1.2em;
+}
