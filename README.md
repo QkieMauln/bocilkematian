@@ -1,0 +1,2 @@
+# bocilkematian
+Sebuah generator
